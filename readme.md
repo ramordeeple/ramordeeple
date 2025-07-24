@@ -11,7 +11,7 @@
 ## - 🛠 Tech Stack:
 ###    - 👉 Java ☕️️ | Spring Boot 🍀 | PostgreSQL 🐘 | Kafka 🛰️
 ###    - 👉 AWS ☁️ | Docker 🐋 | CDK 📐 | Fargate 📦
-##    - 👉 GitHub Actions 🧩 | CI/CD ⚙️ | REST 🌐 | gRPC 🕸
+###    - 👉 GitHub Actions 🧩 | CI/CD ⚙️ | REST 🌐 | gRPC 🕸
 
 
 
