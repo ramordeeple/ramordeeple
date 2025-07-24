@@ -10,7 +10,7 @@
 - 💬 Ask me about: **Java, Spring Boot, AWS CDK, Microservices**
 - 🛠 Tech Stack:
     - Java | Spring Boot | PostgreSQL | Kafka
-    - AWS | Docker | CDK | Fargate | LocalStack
+    - AWS | Docker | CDK | Fargate 
     - GitHub Actions | CI/CD | REST | gRPC
 
 
