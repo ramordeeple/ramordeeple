@@ -1,22 +1,3 @@
-
-
-<h1 align="center">Hi 👋
-
----
-
-### 🧑‍💻 About Me
-
-### - 🌱 Learning more about: **Cloud Infrastructure & Distributed Systems**
-### - 💬 Ask me about: **Java, Spring Boot, AWS CDK, Microservices**
-## - 🛠 Tech Stack:
-###    - 👉 Java ☕️️ | Spring Boot 🍀 | PostgreSQL 🐘 | Kafka 🛰️
-###    - 👉 AWS ☁️ | Docker 🐋 | CDK 📐 | Fargate 📦
-###    - 👉 GitHub Actions 🧩 | CI/CD ⚙️ | REST 🌐 | gRPC 🕸
-
-
-
----
-
 ### 📈 Recent GitHub Activity
 
 <!-- Replace with your actual stats image or keep this section blank until you add activity insights -->
