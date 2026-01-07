@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # каждый день в полночь
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,16 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Клонируем репозиторий
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # 2️⃣ Генерируем SVG с палитрой
+
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}   # <- это должен быть PAT
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -40,4 +39,4 @@ jobs:
           keep_history: true
           allow_empty_commit: true
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}   # <- PAT
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
