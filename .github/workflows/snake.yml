@@ -34,5 +34,6 @@ jobs:
           build_dir: dist
           keep_history: true
           force_orphan: true
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
