@@ -1,7 +1,7 @@
 # Hey there 👋
 
 
-[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+TTThe+abstraction+of+reality+is+language%2C+the+abstraction+of+language+is+code%2C+the+abstraction+of+code+is+mathematical+logic%2C+and+the+abstraction+of+mathematical+logic+is+the+truth+beyond+cognition.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+The+abstraction+of+reality+is+language&lines=the+abstraction+of+language+is+code&lines=the+abstraction+of+code+is+mathematical+logic&lines=the+abstraction+of+mathematical+logic+is+the+truth+beyond+cognition)](https://git.io/typing-svg)
 
 
 ### 🔨 Skills and Tools
@@ -52,5 +52,6 @@
 </div>
 
 
+
 ![snake](https://raw.githubusercontent.com/ramordeeple/ramordeeple/output/github-contribution-grid-snake-dark.svg)
-![typograssy](https://typograssy.deno.dev/api?text=Hello%20World!)
+![](https://count.getloli.com/get/@ramordeeple?type=commits&theme=amoled)
